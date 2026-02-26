@@ -40,6 +40,3 @@ El objetivo es quedarse sin cartas primero.
 
 Java 8 o superior.
 
----
-
-Proyecto realizado para práctica de Programación Orientada a Objetos.
