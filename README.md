@@ -16,7 +16,7 @@ El programa simula una partida entre un jugador y la computadora usando solo car
 
 El objetivo es quedarse sin cartas primero.
 
----
+--
 
 ## Clases del proyecto
 
